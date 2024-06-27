@@ -1,0 +1,171 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1719449978;s:6:"expire";i:1719536378;s:4:"tags";s:57:"901_CAT_P,901_BLOCK_HTML,901_CAT_P_6,901_CAT_P_1,901_MAGE";}
+        <div class="block widget block-products-list grid">
+                <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
+                <ol class="product-items widget-product-grid">
+                                                                <li class="product-item">                        <div class="product-item-info">
+                            <a href="http://localhost:8090/pdm41/admin_vn9oyj1/catalog/product/view/id/6/s/downloadable-product-a/key/239691f2049fbafb16208bd9a57e66f23eef9cf36856f3cb28e32d5255817c1f/" class="product-item-photo">
+                                <span class="product-image-container product-image-container-6">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost:8090/pdm41/static/version1719415001/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Downloadable&#x20;Product&#x20;A"/></span>
+</span>
+<style>.product-image-container-6 {
+    width: 240px;
+    height: auto;
+    aspect-ratio: 240 / 300;
+}
+.product-image-container-6 span.product-image-wrapper {
+    height: 100%;
+    width: 100%;
+}
+@supports not (aspect-ratio: auto) { 
+    .product-image-container-6 span.product-image-wrapper {
+        padding-bottom: 125%;
+    }
+}</style>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Downloadable Product A"
+                                       href="http://localhost:8090/pdm41/admin_vn9oyj1/catalog/product/view/id/6/s/downloadable-product-a/key/239691f2049fbafb16208bd9a57e66f23eef9cf36856f3cb28e32d5255817c1f/"
+                                       class="product-item-link">
+                                        Downloadable Product A                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="6" data-price-box="product-id-6">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-6-widget-product-grid"                data-price-amount="2000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$2,000.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="Downloadable Product A" action="http://localhost:8090/pdm41/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdDo4MDkwL3BkbTQxL2FkbWluX3ZuOW95ajEvcGFnZWJ1aWxkZXIvc3RhZ2UvcHJldmlldy9rZXkvYjI0OTVmYTAzOWY3MTdkZjk4N2Y0NGYxZGNhZjhmNmEyNzE1ZTI4MjI0MjFlOGViNjM3ZDk2MjY0MTY2YTZlNS8_aXNBamF4PXRydWU~/product/6/" method="post">
+                                                            <input type="hidden" name="product" value="6">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdDo4MDkwL3BkbTQxL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkRG80TURrd0wzQmtiVFF4TDJGa2JXbHVYM1p1T1c5NWFqRXZjR0ZuWldKMWFXeGtaWEl2YzNSaFoyVXZjSEpsZG1sbGR5OXJaWGt2WWpJME9UVm1ZVEF6T1dZM01UZGtaams0TjJZME5HWXhaR05oWmpobU5tRXlOekUxWlRJNE1qSTBNakZsT0dWaU5qTTNaRGsyTWpZME1UWTJZVFpsTlM4X2FYTkJhbUY0UFhSeWRXVX4vcHJvZHVjdC82Lw~~">
+                                                            <input name="form_key" type="hidden" value="iU5chQ36N4qWuIDe" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                                <script type="text/x-magento-init">
+                                                        {
+                                                            "[data-role=tocart-form], .form.map.checkout": {
+                                                                "catalogAddToCart": {
+                                                                    "product_sku": "Downloadable\u0020Product\u0020A"
+                                                                }
+                                                            }
+                                                        }
+                                                        </script>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost:8090\/pdm41\/admin_vn9oyj1\/wishlist\/index\/add\/key\/b53fe2dd8eca813977e2edb7b0e6898a5a46996de4e7551c7690963e60488860\/","data":{"product":6,"uenc":"aHR0cDovL2xvY2FsaG9zdDo4MDkwL3BkbTQxL2FkbWluX3ZuOW95ajEvcGFnZWJ1aWxkZXIvc3RhZ2UvcHJldmlldy9rZXkvYjI0OTVmYTAzOWY3MTdkZjk4N2Y0NGYxZGNhZjhmNmEyNzE1ZTI4MjI0MjFlOGViNjM3ZDk2MjY0MTY2YTZlNS8_aXNBamF4PXRydWU~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost:8090\/pdm41\/catalog\/product_compare\/add\/","data":{"product":"6","uenc":"aHR0cDovL2xvY2FsaG9zdDo4MDkwL3BkbTQxL2FkbWluX3ZuOW95ajEvcGFnZWJ1aWxkZXIvc3RhZ2UvcHJldmlldy9rZXkvYjI0OTVmYTAzOWY3MTdkZjk4N2Y0NGYxZGNhZjhmNmEyNzE1ZTI4MjI0MjFlOGViNjM3ZDk2MjY0MTY2YTZlNS8_aXNBamF4PXRydWU~"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://localhost:8090/pdm41/admin_vn9oyj1/catalog/product/view/id/1/s/product-a/key/239691f2049fbafb16208bd9a57e66f23eef9cf36856f3cb28e32d5255817c1f/" class="product-item-photo">
+                                <span class="product-image-container product-image-container-1">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost:8090/pdm41/static/version1719415001/frontend/Magento/luma/en_US/Magento_Catalog/images/product/placeholder/small_image.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Product&#x20;A"/></span>
+</span>
+<style>.product-image-container-1 {
+    width: 240px;
+    height: auto;
+    aspect-ratio: 240 / 300;
+}
+.product-image-container-1 span.product-image-wrapper {
+    height: 100%;
+    width: 100%;
+}
+@supports not (aspect-ratio: auto) { 
+    .product-image-container-1 span.product-image-wrapper {
+        padding-bottom: 125%;
+    }
+}</style>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Product A"
+                                       href="http://localhost:8090/pdm41/admin_vn9oyj1/catalog/product/view/id/1/s/product-a/key/239691f2049fbafb16208bd9a57e66f23eef9cf36856f3cb28e32d5255817c1f/"
+                                       class="product-item-link">
+                                        Product A                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="1" data-price-box="product-id-1">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-1-widget-product-grid"                data-price-amount="15.9"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$15.90</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="Product A" action="http://localhost:8090/pdm41/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdDo4MDkwL3BkbTQxL2FkbWluX3ZuOW95ajEvcGFnZWJ1aWxkZXIvc3RhZ2UvcHJldmlldy9rZXkvYjI0OTVmYTAzOWY3MTdkZjk4N2Y0NGYxZGNhZjhmNmEyNzE1ZTI4MjI0MjFlOGViNjM3ZDk2MjY0MTY2YTZlNS8_aXNBamF4PXRydWU~/product/1/" method="post">
+                                                            <input type="hidden" name="product" value="1">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdDo4MDkwL3BkbTQxL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkRG80TURrd0wzQmtiVFF4TDJGa2JXbHVYM1p1T1c5NWFqRXZjR0ZuWldKMWFXeGtaWEl2YzNSaFoyVXZjSEpsZG1sbGR5OXJaWGt2WWpJME9UVm1ZVEF6T1dZM01UZGtaams0TjJZME5HWXhaR05oWmpobU5tRXlOekUxWlRJNE1qSTBNakZsT0dWaU5qTTNaRGsyTWpZME1UWTJZVFpsTlM4X2FYTkJhbUY0UFhSeWRXVX4vcHJvZHVjdC8xLw~~">
+                                                            <input name="form_key" type="hidden" value="iU5chQ36N4qWuIDe" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                                <script type="text/x-magento-init">
+                                                        {
+                                                            "[data-role=tocart-form], .form.map.checkout": {
+                                                                "catalogAddToCart": {
+                                                                    "product_sku": "Product\u0020A"
+                                                                }
+                                                            }
+                                                        }
+                                                        </script>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/localhost:8090\/pdm41\/admin_vn9oyj1\/wishlist\/index\/add\/key\/b53fe2dd8eca813977e2edb7b0e6898a5a46996de4e7551c7690963e60488860\/","data":{"product":1,"uenc":"aHR0cDovL2xvY2FsaG9zdDo4MDkwL3BkbTQxL2FkbWluX3ZuOW95ajEvcGFnZWJ1aWxkZXIvc3RhZ2UvcHJldmlldy9rZXkvYjI0OTVmYTAzOWY3MTdkZjk4N2Y0NGYxZGNhZjhmNmEyNzE1ZTI4MjI0MjFlOGViNjM3ZDk2MjY0MTY2YTZlNS8_aXNBamF4PXRydWU~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost:8090\/pdm41\/catalog\/product_compare\/add\/","data":{"product":"1","uenc":"aHR0cDovL2xvY2FsaG9zdDo4MDkwL3BkbTQxL2FkbWluX3ZuOW95ajEvcGFnZWJ1aWxkZXIvc3RhZ2UvcHJldmlldy9rZXkvYjI0OTVmYTAzOWY3MTdkZjk4N2Y0NGYxZGNhZjhmNmEyNzE1ZTI4MjI0MjFlOGViNjM3ZDk2MjY0MTY2YTZlNS8_aXNBamF4PXRydWU~"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                        </li>                                    </ol>
+            </div>
+                    </div>
+    </div>
